@@ -1,0 +1,3 @@
+ROOT = "/"
+PING = "/ping"
+
